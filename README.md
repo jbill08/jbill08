@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbill08
+- 👋 Hi, I’m @JakaitBill
 - 👀 I’m interested in web developement and ecommerce
 - 🌱 I’m currently learning front end
 - 📫 How to reach me - jakaitbill@gmail.com
